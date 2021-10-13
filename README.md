@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Moulirichards
 - 👀 I’m interested in artifical intelligence.
 - 🌱 I’m currently learning c language 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me contact me through my email
+- 📫 contact me throught my email address- moulirichards9@gmail.com
 
 <!---
 Moulirichards/Moulirichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
